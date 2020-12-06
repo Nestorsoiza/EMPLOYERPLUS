@@ -28,7 +28,7 @@ public class Repartidor extends Empleados {
 
 	@Override
 	public String toString() {
-		return "Repartidor [zona=" + zona + ", toString()=" + super.toString() + "]";
+		return "Repartidor [zona=" + zona +  super.toString() + "]";
 	}
 
 
